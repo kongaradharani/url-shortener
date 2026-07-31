@@ -35,3 +35,13 @@ A simple URL Shortener database project built using MySQL.
 4. View the URL data
 
 ## Project Files
+## Screenshots
+
+### Database Setup
+![Database](database.png)
+
+### URL Data
+![Data](url_data.png)
+
+### Analytics
+![Analytics](analytics.png)
