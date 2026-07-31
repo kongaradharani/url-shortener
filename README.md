@@ -37,11 +37,8 @@ A simple URL Shortener database project built using MySQL.
 ## Project Files
 ## Screenshots
 
-### Database Setup
-![Database](database.png)
+![Database Setup](url_shortener0.jpeg)
 
-### URL Data
-![Data](url_data.png)
+![URL Data](url_shortener1.png)
 
-### Analytics
-![Analytics](analytics.png)
+![Analytics](url_shortener2.png)
